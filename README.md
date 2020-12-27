@@ -11,15 +11,15 @@ I want to create two web pages containing a Chinese version and an English versi
 ![Image](src)
 
 something about Good tools、Programming Languages、Coding、AI、Learning Resources、phone、some questions in a mess...
-- [Mess](# Mess)
-- [Markdown](# Markdown)
-- [Language](# Language)
-- [AI](# AI)
-- [Code](# Code)
-- [Route](# Route)
-- [Phone](# Phone)
-- [Q&A](# Q&A)
-- [Exciting](# Exciting)
+- [Mess](#Mess)
+- [Markdown](#Markdown)
+- [Language](#Language)
+- [AI](#AI)
+- [Code](#Code)
+- [Route](#Route)
+- [Phone](#Phone)
+- [Q&A](#Q&A)
+- [Exciting](#Exciting)
 
 
 ## <span id="Mess">Mess</span>
@@ -31,9 +31,9 @@ learn some sytax about markdown, it helps much!
 ## <span id="Language">Language</span>
 recording some knowledge about language
 #### Design
-***FrameWork***
-***Design Pattern***
-***Any***
+***FrameWork***  
+***Design Pattern***  
+***Any***  
 #### Common
 #### Python
 #### Java
@@ -46,9 +46,9 @@ as the name said
 
 ## <span id="Code">Code</span>
 learn to manage code and write nice code
-#### Vesion Control
-#### Code Specification
-#### Source Code
+***Vesion Control***  
+***Code Specification***  
+***Source Code***  
 
 
 ## <span id="Route">Route</span>
