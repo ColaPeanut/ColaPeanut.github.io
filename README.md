@@ -45,7 +45,7 @@ recording some knowledge about language
 as the name said
 
 ## <span id="Code">Code</span>
-learn to manage code and write nice code  
+learn to manage code and write nice code    
 ***Vesion Control***  
 ***Code Specification***  
 ***Source Code***  
