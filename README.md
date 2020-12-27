@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+# Welcome to visit ColaPeanut
 
-You can use the [editor on GitHub](https://github.com/ColaPeanut/ColaPeanut.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+It's still under construction, anyway, welcome！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Initial Planning
 
-### Markdown
+I want to create two web pages containing a Chinese version and an English version.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[ColaPeanut's HomePage](https://colapeanut.github.io/)
+[ColaPeanut 的主页](https://colapeanut.github.io/)
+![Image](src)
 
-```markdown
-Syntax highlighted code block
+something about Good tools、Programming Languages、Coding、AI、Learning Resources、phone、some questions in a mess...
+- [Mess](# Mess)
+- [Markdown](# Markdown)
+- [Language](# Language)
+- [AI](# AI)
+- [Code](# Code)
+- [Route](# Route)
+- [Phone](# Phone)
+- [Q&A](# Q&A)
+- [Exciting](# Exciting)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### <span id="Mess">Mess</span>
+something... I don't know exactly
 
-1. Numbered
-2. List
+### <span id="Markdown">Markdown</span>
+learn some sytax about markdown, it helps much!
 
-**Bold** and _Italic_ and `Code` text
+### <span id="Language">Language</span>
+recording some knowledge about language
+#### Design
+##### FrameWork
+##### Design Pattern
+##### Any
+#### Common
+#### Python
+#### Java
+#### C++
+#### Android
+#### Database
 
-[Link](url) and ![Image](src)
-```
+### <span id="AI">AI</span>
+as the name said
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### <span id="Code">Code</span>
+learn to manage code and write nice code
+#### Vesion Control
+#### Code Specification
+#### Source Code
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ColaPeanut/ColaPeanut.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### <span id="Route">Route</span>
+some course for learning
 
-### Support or Contact
+### <span id="Phone">Phone</span>
+something about phone
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### <span id="Q&A">Q&A</span>
+Q and A
+
+### <span id="Exciting">Exciting</span>
+just jobs
